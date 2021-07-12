@@ -25,7 +25,7 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working Solulab inc. (Blockchain Dev)
+- 👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev)
 - 🌱 I’m currently learning Js and Ethereum
 - 🤔 I’m looking for help for my future Ethereum Projects
 - 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto
