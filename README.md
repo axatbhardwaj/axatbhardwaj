@@ -1,15 +1,9 @@
 ### Hi there 👋, I'm [Axat](https://github.com/Axatbhardwaj) 👨‍💻
-
 ![](https://komarev.com/ghpvc/?username=axatbhardwaj&color=green)
-
 <br/>
 
 <a href="https://www.linkedin.com/in/axatbhardwaj/">
   <img align="left" alt="Axat's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/axatbhardwaj">
-  <img align="left" alt="Axat Bhardwaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="mailto:axatbhardwaj@outlook.com">
