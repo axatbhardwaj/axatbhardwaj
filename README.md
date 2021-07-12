@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/axatbhardwaj/">
-  <img align="left" alt="Axat's Linkedin" width="22px" src="https://app.box.com/s/tbewmxofl26whkji2by480fxuljm5tdn" />
+  <img align="left" alt="Axat's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />
 </a>
 
 <a href="https://twitter.com/axatbhardwaj">
