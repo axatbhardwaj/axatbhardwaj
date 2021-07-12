@@ -30,7 +30,7 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 - 🤔 I’m looking for help for my future Ethereum Projects
 - 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto
 - 🎿 Hobbies other than coding : Reading Books , Playing Chess & video games , ..
-- 📫 How to reach me: aman.atg001@gmail.com
+- 📫 How to reach me: axatbhardwaj@outlook.com
 - 📝 [Resume](https://1drv.ms/b/s!As96N8HWmtCTkfAxzNI7OW0ntMWMug?e=8xWJEi)
 ### 🛠️ Languages and Tools:
 
