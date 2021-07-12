@@ -10,7 +10,7 @@
 
 
 
-[![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark))][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact))
+[![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark))][![Top Langs]<br/><br/>(https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact))
 
 
 <!--
