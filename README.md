@@ -13,7 +13,7 @@
 
 
 
-![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark)                   ----![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact&theme=dark)                                               ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)                                                ----![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=chartreuse-dark)
+![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark) [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact&theme=dark)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=chartreuse-dark)
 
 
 
