@@ -13,9 +13,8 @@
 
 
 
-![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact&theme=dark)  
+![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact&theme=dark)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=chartreuse-dark)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)
 
 
 
@@ -28,6 +27,8 @@ Here are some ideas to get you started:
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+
+chartreuse-dark
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
