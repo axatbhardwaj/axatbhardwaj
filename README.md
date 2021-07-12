@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Axat bhardwaj
+### Hi there 👋 I'm Axat bhardwaj  
+
+![](https://komarev.com/ghpvc/?username=axatbhardwaj&color=green)
+
 
 
 🔭 I’m currently working at Solulab Inc.  
