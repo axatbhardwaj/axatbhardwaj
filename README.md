@@ -1,6 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working at Solulab Inc
+🔭 I’m currently working at Solulab Inc 
+
 💬 Ask me about Blockchain,crypto,javascript,c++
+
 📫 How to reach me:axatbhardwaj@outlooi.com
 
 
