@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Axat](https://github.com/Axat) 👨‍💻
+### Hi there 👋, I'm [Axat](https://github.com/Axatbhardwaj) 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=axatbhardwaj&color=green)
 
