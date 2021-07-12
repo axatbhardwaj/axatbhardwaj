@@ -1,9 +1,6 @@
-### Hi there 👋 I'm Axat bhardwaj  
+### Hi there 👋, I'm [Axat](https://github.com/Axat) 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=axatbhardwaj&color=green)
-
-
-### Hi there 👋, I'm [Axat](https://github.com/Axat) 👨‍💻
 
 <br/>
 
@@ -43,7 +40,7 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 - 📝 [Resume](https://1drv.ms/b/s!As96N8HWmtCTkfAxzNI7OW0ntMWMug?e=8xWJEi)
 ### 🛠️ Languages and Tools:
 
-![Blockchain](https://img.shields.io/badge/-Blockchain-brightgreen?style=flat-square&logo=blockchain)
+![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
