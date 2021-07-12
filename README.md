@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working at Solulab Inc. 
+🔭 I’m currently working at Solulab Inc.\n 
 💬 Ask me about Blockchain,crypto,javascript,c++. 
 📫 How to reach me:axatbhardwaj@outlook.com.
 🌱 I’m currently learning javascript , ethereum , solidity.
