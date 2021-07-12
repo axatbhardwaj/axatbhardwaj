@@ -1,8 +1,13 @@
-### Hi there 👋
-🔭 I’m currently working at Solulab Inc.\n 
+### Hi there 👋 I'm Axat bhardwaj
+
+
+🔭 I’m currently working at Solulab Inc.
 💬 Ask me about Blockchain,crypto,javascript,c++. 
 📫 How to reach me:axatbhardwaj@outlook.com.
 🌱 I’m currently learning javascript , ethereum , solidity.
+
+
+
 
 
 [![Axat's GitHub stats](https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&theme=dark))]              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&layout=compact))
