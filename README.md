@@ -40,14 +40,16 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 - 📝 [Resume](https://1drv.ms/b/s!As96N8HWmtCTkfAxzNI7OW0ntMWMug?e=8xWJEi)
 ### 🛠️ Languages and Tools:
 
-![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=b)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square)
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square)
 
 ### Some Stats :
 
