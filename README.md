@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Axat](https://github.com/Axatbhardwaj) 👨‍💻</h1>
+<h1 align="center">Hi there 👋, I'm Axat👨‍💻</h1>
 ![](https://komarev.com/ghpvc/?username=axatbhardwaj&color=green)
 <br/>
 
