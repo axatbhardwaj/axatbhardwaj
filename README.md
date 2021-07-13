@@ -47,9 +47,9 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 
 ### Some Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&theme=dark&layout=compact)<img align="right" alt="Axats Github Stats" src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&&hide=issues,contribscount_private=true&theme=dark" />![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&theme=dark&layout=compact)<img align="right" alt="Axats Github Stats" src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&&hide=issues,contribscount_private=true&theme=dark" /><br><img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=chartreuse-dark" />![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)
 
-<img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=chartreuse-dark" />
+
 
 <hr/>
 
