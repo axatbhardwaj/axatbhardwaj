@@ -49,7 +49,7 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 
 <img align="center" alt="Axats Github Stats" src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&&hide=issues,contribscount_private=true&theme=dark" /><br><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&theme=dark"/><img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=chartreuse-dark" />
 
-![Axat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj)
+![Axat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axatbhardwaj&theme=dark)
 
 
 <hr/>
