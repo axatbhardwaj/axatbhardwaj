@@ -45,10 +45,6 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 ![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square)
 
-### Some Stats :
-
-<img align="center" alt="Axats Github Stats" src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&&hide=issues,contribscount_private=true&theme=dark" /><br><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&theme=dark"/>
-
 
 <hr/>
 
