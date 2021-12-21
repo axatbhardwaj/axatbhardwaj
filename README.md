@@ -32,19 +32,6 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 - 🎿 Hobbies other than coding : Reading Books , Playing Chess & video games , ..
 - 📫 How to reach me: axatbhardwaj@outlook.com
 - 📝 [Resume](https://www.dropbox.com/s/xp8u7mm8hpzxd9q/axat_bhardwaj.pdf?dl=0)
-### 🛠️ Languages and Tools:
-
-![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square)
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square)
-
 
 <hr/>
 
