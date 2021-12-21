@@ -26,12 +26,12 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev)
-- 🌱 I’m currently learning Js and Ethereum
-- 🤔 I’m looking for help for my future Ethereum Projects
-- 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto
+- 🌱 I’m currently learning Solidity,Ethereum,Solana
+- 🤔 I’m looking for help for my future Blockchain Projects
+- 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto 
 - 🎿 Hobbies other than coding : Reading Books , Playing Chess & video games , ..
 - 📫 How to reach me: axatbhardwaj@outlook.com
-- 📝 [Resume](https://1drv.ms/b/s!As96N8HWmtCTkfAxzNI7OW0ntMWMug?e=8xWJEi)
+- 📝 [Resume](https://www.dropbox.com/s/xp8u7mm8hpzxd9q/axat_bhardwaj.pdf?dl=0)
 ### 🛠️ Languages and Tools:
 
 ![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square)
