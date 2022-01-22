@@ -17,7 +17,7 @@
 <p>
 A Budding Blockchain Developer 🚀 from India.
 <br/>
-Stacks I have worked with : IBM Cloud,Js,C++,Geth
+Stacks I have worked with : Solidity,Ethereum,Tron,Js,C++,Geth
 <br/> 
 </p>
 
@@ -26,7 +26,7 @@ Stacks I have worked with : IBM Cloud,Js,C++,Geth
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev)
-- 🌱 I’m currently learning Solidity,Ethereum,Solana
+- 🌱 I’m currently learning Solana, Node.js ,EOS
 - 🤔 I’m looking for help for my future Blockchain Projects
 - 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto 
 - 🎿 Hobbies other than coding : Reading Books , Playing Chess & video games , ..
