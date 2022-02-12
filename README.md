@@ -2,10 +2,15 @@
 ![](https://komarev.com/ghpvc/?username=axatbhardwaj&color=green)
 <br/>
 
+<a href="https://www.dropbox.com/s/xp8u7mm8hpzxd9q/axat_bhardwaj.pdf?dl=0">
+<img align="left" alt="Axat's Resume" width="24px"  src="https://img.icons8.com/fluency/48/000000/open-resume.png"/>
+</a>
+
 <a href="https://www.linkedin.com/in/axatbhardwaj/">
+<img align="left" alt="Axat's Linkedin" width="24px"  src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:axatbhardwaj@outlook.com">
-  <img align="left" alt="Axat's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />
+  <img align="left" alt="Axat's Email" width="24px" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" />
 </a>
 
 
