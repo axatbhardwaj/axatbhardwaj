@@ -31,8 +31,8 @@ Stacks I have worked with : Solidity,Ethereum,Tron,Js,C++,Geth
 - 👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev)
 - 🌱 I’m currently learning Solana, Node.js ,EOS
 - 🤔 I’m looking for help for my future Blockchain Projects
-- 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto 
-- 🎿 Hobbies other than coding : Reading Books , Playing Chess & video games , ..
+- 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, cypto , Metaverse , web3 , Decentralization
+- 🎿 Hobbies other than coding : Reading Books ,video games , ..
 - 📫 How to reach me: axatbhardwaj@outlook.com
 - 📝 [Resume](https://www.dropbox.com/s/xp8u7mm8hpzxd9q/axat_bhardwaj.pdf?dl=0)
 
