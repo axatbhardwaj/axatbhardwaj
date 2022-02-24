@@ -40,7 +40,7 @@ Stacks I have worked with : Solidity,Ethereum,Tron,Js,C++,Geth
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axatbhardwaj&show_icons=true&locale=en&layout=compact&theme=merko" alt="axatbhardwaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&locale=en&theme=merko" alt="axatbhardwaj" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&locale=en&theme=merko" alt="axatbhardwaj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&theme=merko" alt="axatbhardwaj" /></p>
 
