@@ -1,5 +1,17 @@
 Hi 👋 My name is Axat Bhardwaj
-==============================Blockchian Devloper-------------------👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev) 🌱 I’m currently learning Solana, Node. js,EOS 🤔 I’m looking for help for my future Blockchain Projects 💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, crypto, Metaverse, web3, Decentralization 🎿 Hobbies other than coding: Reading Books, video games,...* 🌍  I'm based in Delhi* ✉️  You can contact me at [axatbhardwaj@outlook.com](mailto:axatbhardwaj@outlook.com)* 🧠  I'm learning Solana and EOS* 🤝  I'm open to collaborating on Solidity , Ethereum(EVM) , Metaverse , WEB3 related projects
+==============================
+
+Blockchian Devloper
+-------------------
+
+👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev) 
+🌱 I’m currently learning Solana, Node. js,EOS 
+*   💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, crypto, Metaverse, web3, Decentralization 
+*   🎿 Hobbies other than coding: Reading Books, video games,...
+*   🌍  I'm based in Delhi
+*   ✉️  You can contact me at [axatbhardwaj@outlook.com](mailto:axatbhardwaj@outlook.com)
+*   🧠  I'm learning Solana and EOS
+*   🤝  I'm open to collaborating on Solidity , Ethereum(EVM) , Metaverse , WEB3 related projects
 
 ### Skills
 
