@@ -4,7 +4,7 @@ Hi 👋 My name is Axat Bhardwaj
 Blockchian Devloper
 -------------------
 
-👨🏽‍💻 I’m currently working at Solulab inc. (Blockchain Dev) 
+👨🏽‍💻 I’m currently working as Blockchain Dev 
 
 *   🌱 I’m currently learning Solana, Node. js,EOS 
 *   💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, crypto, Metaverse, web3, Decentralization 
