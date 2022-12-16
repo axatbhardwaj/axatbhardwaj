@@ -9,7 +9,7 @@ Blockchian Devloper
 *   🎿 Hobbies other than coding: Reading Books, video games,...
 *   🌍  I'm based in Delhi
 *   🤝  I'm open to collaborating on Solidity , Ethereum(EVM) , Metaverse , WEB3 related projects
-*   🌱  Have a look at my Blockchain documentation [Notion](https://www.notion.so/axatbhardwaj/Eos-74183df9b2d24aa5b0b947cde1dc7a7b)
+*   🌱  Have a look at my Blockchain documentation [Notion](https://axatbhardwaj.notion.site/Blockchain-Research-Hub-3ccd1742ea184ede8bb9a79123bf9c75)
 *   ✉️  You can contact me at [axatbhardwaj@outlook.com](mailto:axatbhardwaj@outlook.com)
 
 
