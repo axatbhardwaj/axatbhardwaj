@@ -5,7 +5,7 @@ Blockchian Devloper
 -------------------
 
 *   🌱 I’m currently learning Solana, Node. js,EOS 
-*   💬 Ask me about anything related to JS, Blockchain, c++, Ethereum, crypto, Metaverse, web3, Decentralization 
+*   💬 Ask me about anything related to Blockchain, Ethereum, EVM , Layer-2 solutions, DE-FI , web3, Hyperledger-Fabric
 *   🎿 Hobbies other than coding: Reading Books, video games,...
 *   🌍  I'm based in Delhi
 *   🤝  I'm open to collaborating on Solidity , Ethereum(EVM) , Metaverse , WEB3 related projects
