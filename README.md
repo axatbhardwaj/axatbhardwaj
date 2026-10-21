@@ -1,6 +1,6 @@
 ## Hi, I'm Axat 👋
 
-Founding engineer at [defi.com](https://defi.com). I own the **wallet core and web3 stack**, and I build the **AI engineering infrastructure** we ship with.
+Engineering @ [defi.com](https://defi.com). I own the **wallet core and web3 stack**, and I build the **AI engineering infrastructure** we ship with.
 
 5+ years in web3 · 2+ years building AI agents · Delhi, India
 
