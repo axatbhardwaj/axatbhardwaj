@@ -1,31 +1,27 @@
-Hi 👋 My name is Axat Bhardwaj
-==============================
+## Hi, I'm Axat 👋
 
-Blockchian Devloper
--------------------
+Founding engineer at [defi.com](https://defi.com). I own the **wallet core and web3 stack**, and I build the **AI engineering infrastructure** we ship with.
 
-*   🌱 I’m currently learning Solana, Node. js,EOS 
-*   💬 Ask me about anything related to Blockchain, Ethereum, EVM , Layer-2 solutions, DE-FI , web3, Hyperledger-Fabric
-*   🎿 Hobbies other than coding: Reading Books, video games,...
-*   🌍  I'm based in Delhi
-*   🤝  I'm open to collaborating on Solidity , Ethereum(EVM) , Metaverse , WEB3 related projects
-*   🌱  Have a look at my Blockchain documentation [Notion](https://axatbhardwaj.notion.site/Blockchain-Research-Hub-3ccd1742ea184ede8bb9a79123bf9c75)
-*   ✉️  You can contact me at [axatbhardwaj@outlook.com](mailto:axatbhardwaj@outlook.com)
+5+ years in web3 · 2+ years building AI agents · Delhi, India
 
+### What I work on
 
-### Skills
+- **Wallet core (defi.com):** passkey-based multichain smart accounts on Ethereum, Base and Tempo. Covers deployment, transaction execution and account recovery, across the frontend, shared SDKs and Rust services.
+- **Rust backend + infra:** ported the passkey and fiat servers from TypeScript to Rust/Axum, with a TS↔Rust parity test harness. Provisioned Azure staging (114 resources) with OpenTofu.
+- **AI engineering infra:** AI code review with isolated execution, read-only model credentials, and review/merge permissions enforced at the gateway.
+- **Before:** agent frameworks and subgraphs on 8+ networks at [Valory](https://valory.xyz) (Olas, agents.fun). Earlier: blockchain infra and smart contracts at Infrablok and SoluLab.
 
-<p align="left"><a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a><a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a><a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" width="36" height="36" alt="IPFS" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored-dark.svg" width="36" height="36" alt="Near" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
+### Open source
 
+- [**axstack**](https://github.com/axatbhardwaj/axstack): engineering workflows for AI agents, from scoping through a reviewed PR. Strict TDD, cross-model review, T3 Code orchestration.
+- [**evm-risk-sim**](https://github.com/axatbhardwaj/evm-risk-sim): block-pinned EVM transaction simulation and wallet-risk evaluation (EOA + ERC-4337).
+- [**erc-4337**](https://github.com/axatbhardwaj/erc-4337): a minimal ERC-4337 smart account built from scratch ([write-up](https://axatbhardwaj.xyz/blog/)).
+- [**Haoshoku**](https://github.com/axatbhardwaj/Haoshoku): modular Linux setup toolkit for Arch and Debian.
 
-### Badges
+### Stack
 
-<b>My GitHub Stats</b>
+**Rust** · **TypeScript** · **Python** · **Solidity** · account abstraction · passkeys/WebAuthn · The Graph / Ponder · PostgreSQL · Redis · Azure · Docker · OpenTofu · LLM agents, evals, automated review
 
-<a href="http://www.github.com/axatbhardwaj"><img src="https://github-readme-stats.vercel.app/api?username=axatbhardwaj&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="axatbhardwaj's GitHub stats" /></a>
+### Elsewhere
 
-<a href="http://www.github.com/axatbhardwaj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=axatbhardwaj&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/axatbhardwaj"><img src="https://activity-graph.herokuapp.com/graph?username=axatbhardwaj&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/axatbhardwaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axatbhardwaj&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[Website](https://axatbhardwaj.xyz) · [Blog](https://axatbhardwaj.xyz/blog/) · [LinkedIn](https://linkedin.com/in/axatbhardwaj) · [X](https://x.com/axatbhardwaj) · [Book a call](https://cal.com/axatbhardwaj)
